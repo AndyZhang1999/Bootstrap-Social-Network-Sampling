@@ -1,0 +1,22 @@
+{
+  "name": "imageploader",
+  "version": "1.0.0",
+  "description": "Image Uploader Web site",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "moment": "^2.14.1",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.0"
+  }
+}
