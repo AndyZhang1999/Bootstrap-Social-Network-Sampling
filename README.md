@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/SocialNet-ImageShare.git
+git clone git@github.com:AndyZhang1999/Bootstrap-Social-Network-Sampling.git
 ```
 
 2. Navigate to the project directory:
