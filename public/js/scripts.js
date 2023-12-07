@@ -13,4 +13,4 @@ $(function(){
 		        $('.likes-count').text(data.likes);
 		    });
 		});
-});
+}); 
